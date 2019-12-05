@@ -18,9 +18,9 @@ p1 {
       text-decoration:none; 
       color: inherit;
 }
-.menu a.cell:hover {
+a.cell:hover {
       background-color: #05B5B5;
       padding: 150px 0 15px 65px;
       text-decoration:none; 
-      color: inherit;
+      color: #05B5B5;
 }
