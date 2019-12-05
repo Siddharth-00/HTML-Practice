@@ -1,1 +1,15 @@
-
+header {
+      background-image: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/header-banner.jpg');
+      height: 118px;
+      width: 100%;
+    }
+h1 {
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-left: 20px;
+  color: white;
+}
+p1 {
+  color: #757170;
+  font-family: Arial;
+}
