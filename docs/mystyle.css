@@ -38,5 +38,6 @@ a.cell:hover {
       color: white;
 }
 table {
+      margin-top: 20px;
       margin-left: 45px;
 }
