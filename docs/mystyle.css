@@ -19,6 +19,15 @@ p1 {
       color: inherit;
       font-family: Arial;
 }
+.row {
+      padding-bottom: 12.5px; 
+      padding-top: 12.5px;
+}
+td.row:hover {
+      padding-bottom: 12.5px; 
+      padding-top: 12.5px;
+      background-color: #FF0000
+}
 a.cell:hover {
       background-color: #05B5B5;
       padding: 15px 0px 15px 65px;
