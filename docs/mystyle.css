@@ -18,7 +18,7 @@ p1 {
 .cell {
       padding: 15px 0px 15px 65px;
       text-decoration:none; 
-      color: #525252;
+      color: gray;
       font-family: Arial;
 }
 .row {
