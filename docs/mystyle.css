@@ -11,15 +11,13 @@ h1 {
   font-family: Arial;
   font-weight: normal;
 }
+table {
+      margin-top: 20px;
+      margin-left: 45px;
+}
 p1 {
   color: #757170;
   font-family: Arial;
-}
-.cell {
-      padding: 15px 0px 15px 65px;
-      text-decoration:none; 
-      color: #525252;
-      font-family: Arial;
 }
 .row {
       padding-bottom: 12.5px; 
@@ -30,14 +28,363 @@ td.row:hover {
       padding-top: 12.5px;
       background-color: #00B9B9;
 }
-a.cell:hover {
+.cell1 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-1.png') left 10px center no-repeat;
+}
+a.cell1:hover {
       background-color: #05B5B5;
       padding: 15px 0px 15px 65px;
       font-family: Arial;
       text-decoration:none; 
       color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-h.png') left 10px center no-repeat;
 }
-table {
-      margin-top: 20px;
-      margin-left: 45px;
+.cell2 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_02-1.png') left 10px center no-repeat;
+}
+a.cell2:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_02-h.png') left 10px center no-repeat;
+}
+.cell3 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_03-1.png') left 10px center no-repeat;
+}
+a.cell3:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_03-h.png') left 10px center no-repeat;
+}
+.cell4 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_04-1.png') left 10px center no-repeat;
+}
+a.cell4:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_04-h.png') left 10px center no-repeat;
+}
+.cell5 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_05-1.png') left 10px center no-repeat;
+}
+a.cell5:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_05-h.png') left 10px center no-repeat;
+}
+.cell6 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_06-1.png') left 10px center no-repeat;
+}
+a.cell6:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_06-h.png') left 10px center no-repeat;
+}
+.cell7 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_07-1.png') left 10px center no-repeat;
+}
+a.cell7:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_07-h.png') left 10px center no-repeat;
+}
+.cell8 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_08-1.png') left 10px center no-repeat;
+}
+a.cell8:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_08-h.png') left 10px center no-repeat;
+}
+.cell9 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_09-1.png') left 10px center no-repeat;
+}
+a.cell9:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_09-h.png') left 10px center no-repeat;
+}
+.cell10 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_10-1.png') left 10px center no-repeat;
+}
+a.cell10:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_10-h.png') left 10px center no-repeat;
+}
+.cell11 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_11-1.png') left 10px center no-repeat;
+}
+a.cell11:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_11-h.png') left 10px center no-repeat;
+}
+.cell12 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_12-1.png') left 10px center no-repeat;
+}
+a.cell12:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_12-h.png') left 10px center no-repeat;
+}
+.cell13 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_13-1.png') left 10px center no-repeat;
+}
+a.cell13:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_13-h.png') left 10px center no-repeat;
+}
+.cell14 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_14-1.png') left 10px center no-repeat;
+}
+a.cell14:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_14-h.png') left 10px center no-repeat;
+}
+.cell15 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_15-1.png') left 10px center no-repeat;
+}
+a.cell15:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_15-h.png') left 10px center no-repeat;
+}
+.cell16 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_16-1.png') left 10px center no-repeat;
+}
+a.cell16:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_16-h.png') left 10px center no-repeat;
+}
+.cell17 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_17-1.png') left 10px center no-repeat;
+}
+a.cell17:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_17-h.png') left 10px center no-repeat;
+}
+.cell18 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_18-1.png') left 10px center no-repeat;
+}
+a.cell18:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_18-h.png') left 10px center no-repeat;
+}
+.cell19 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_19-1.png') left 10px center no-repeat;
+}
+a.cell19:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_19-h.png') left 10px center no-repeat;
+}
+.cell20 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_20-1.png') left 10px center no-repeat;
+}
+a.cell20:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_20-h.png') left 10px center no-repeat;
+}
+.cell21 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_21-1.png') left 10px center no-repeat;
+}
+a.cell21:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_21-h.png') left 10px center no-repeat;
+}
+.cell22 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_22-1.png') left 10px center no-repeat;
+}
+a.cell22:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_22-h.png') left 10px center no-repeat;
+}
+.cell23 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_23-1.png') left 10px center no-repeat;
+}
+a.cell23:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_23-h.png') left 10px center no-repeat;
+}
+.cell24 {
+      padding: 15px 0px 15px 65px;
+      text-decoration:none; 
+      color: #525252;
+      font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_24-1.png') left 10px center no-repeat;
+}
+a.cell24:hover {
+      background-color: #05B5B5;
+      padding: 15px 0px 15px 65px;
+      font-family: Arial;
+      text-decoration:none; 
+      color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_24-h.png') left 10px center no-repeat;
 }
