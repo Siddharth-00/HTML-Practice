@@ -18,7 +18,7 @@ p1 {
       text-decoration:none; 
       color: inherit;
 }
-.cell:hover {
+a.cell:hover {
       background-color: #05B5B5;
       padding: 150px 0 15px 65px;
       text-decoration:none; 
