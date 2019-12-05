@@ -15,14 +15,14 @@ p1 {
 }
 .cell {
       padding: 15px 0px 15px 65px;
-
       text-decoration:none; 
       color: inherit;
+      font-family: Arial;
 }
 a.cell:hover {
       background-color: #05B5B5;
       padding: 15px 0px 15px 65px;
-
+      font-family: Arial;
       text-decoration:none; 
       color: inherit;
 }
