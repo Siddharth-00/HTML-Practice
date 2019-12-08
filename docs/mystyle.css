@@ -46,13 +46,13 @@ td.row2:hover {
       background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_02-h.png') left 10px center no-repeat;
 
 }
-.cell1 {
+.cell {
       padding: 15px 0px 15px 65px;
       text-decoration:none; 
       color: #525252;
       font-family: Arial;
 }
-a.cell1:hover {
+a.cell:hover {
       background-color: #05B5B5;
       padding: 15px 0px 15px 65px;
       font-family: Arial;
