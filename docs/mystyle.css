@@ -19,22 +19,38 @@ p1 {
   color: #757170;
   font-family: Arial;
 }
-.row {
+.row1 {
       padding-bottom: 12.5px; 
       padding-top: 12.5px;
-      width: 50px;
+      width: 355px;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-1.png') left 10px center no-repeat;
 }
-td.row:hover {
+td.row1:hover {
       padding-bottom: 12.5px; 
       padding-top: 12.5px;
       background-color: #00B9B9;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-h.png') left 10px center no-repeat;
+
+}
+.row2 {
+      padding-bottom: 12.5px; 
+      padding-top: 12.5px;
+      width: 355px;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_02-1.png') left 10px center no-repeat;
+
+}
+td.row2:hover {
+      padding-bottom: 12.5px; 
+      padding-top: 12.5px;
+      background-color: #00B9B9;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_02-h.png') left 10px center no-repeat;
+
 }
 .cell1 {
       padding: 15px 0px 15px 65px;
       text-decoration:none; 
       color: #525252;
       font-family: Arial;
-      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-1.png') left 10px center no-repeat;
 }
 a.cell1:hover {
       background-color: #05B5B5;
@@ -42,14 +58,12 @@ a.cell1:hover {
       font-family: Arial;
       text-decoration:none; 
       color: white;
-      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-h.png') left 10px center no-repeat;
 }
 .cell2 {
       padding: 15px 0px 15px 65px;
       text-decoration:none; 
       color: #525252;
       font-family: Arial;
-      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_02-1.png') left 10px center no-repeat;
 }
 a.cell2:hover {
       background-color: #05B5B5;
@@ -57,7 +71,6 @@ a.cell2:hover {
       font-family: Arial;
       text-decoration:none; 
       color: white;
-      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_02-h.png') left 10px center no-repeat;
 }
 .cell3 {
       padding: 15px 0px 15px 65px;
