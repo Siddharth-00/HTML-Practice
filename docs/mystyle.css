@@ -20,7 +20,10 @@ p1 {
       text-decoration:none; 
       color: #525252;
       font-family: Arial;
-      background-image: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-1.png') left 10px center no-repeat;
+      background-image: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-1.png'); 
+      background-position: left;
+      background-size: 10px; 
+      background-repeat: no-repeat;
 }
 .cell {
       padding: 15px 0px 15px 65px;
