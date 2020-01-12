@@ -5,10 +5,11 @@ header {
 }
 h1 {
   margin: 0 auto;
-  padding-top: 20px;
+  padding-top: 37px;
   padding-left: 20px;
   color: white;
   font-family: Arial;
+  font-weight: normal;
 }
 p1 {
   color: #757170;
@@ -17,7 +18,7 @@ p1 {
 .cell {
       padding: 15px 0px 15px 65px;
       text-decoration:none; 
-      color: inherit;
+      color: #525252;
       font-family: Arial;
 }
 .row {
@@ -27,7 +28,7 @@ p1 {
 td.row:hover {
       padding-bottom: 12.5px; 
       padding-top: 12.5px;
-      background-color: #00B9B9
+      background-color: #00B9B9;
 }
 a.cell:hover {
       background-color: #05B5B5;
@@ -35,4 +36,8 @@ a.cell:hover {
       font-family: Arial;
       text-decoration:none; 
       color: white;
+}
+table {
+      margin-top: 20px;
+      margin-left: 45px;
 }
