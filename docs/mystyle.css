@@ -1,3 +1,27 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@ss12345 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+ss12345
+/
+HTML-Practice
+1
+00
+ Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
+HTML-Practice/docs/mystyle.css
+@ss12345 ss12345 Update mystyle.css
+db99b47 on 5 Dec 2019
+390 lines (390 sloc)  13 KB
+  
 header {
       background-image: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/header-banner.jpg');
       height: 150px;
@@ -19,51 +43,36 @@ p1 {
   color: #757170;
   font-family: Arial;
 }
-.row1 {
+.row {
       padding-bottom: 12.5px; 
       padding-top: 12.5px;
-      width: 355px;
-      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-1.png') left 10px center no-repeat;
 }
-td.row1:hover {
-      padding-bottom: 12.5px; 
-      padding-top: 12.5px;
-      background-color: #00B9B9;
-      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-h.png') left 10px center no-repeat;
-
-}
-.row2 {
-      padding-bottom: 12.5px; 
-      padding-top: 12.5px;
-      width: 355px;
-      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_02-1.png') left 10px center no-repeat;
-
-}
-td.row2:hover {
+td.row:hover {
       padding-bottom: 12.5px; 
       padding-top: 12.5px;
       background-color: #00B9B9;
-      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_02-h.png') left 10px center no-repeat;
-
 }
-.cell {
+.cell1 {
       padding: 15px 0px 15px 65px;
       text-decoration:none; 
       color: #525252;
       font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-1.png') left 10px center no-repeat;
 }
-a.cell:hover {
+a.cell1:hover {
       background-color: #05B5B5;
       padding: 15px 0px 15px 65px;
       font-family: Arial;
       text-decoration:none; 
       color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-h.png') left 10px center no-repeat;
 }
 .cell2 {
       padding: 15px 0px 15px 65px;
       text-decoration:none; 
       color: #525252;
       font-family: Arial;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_02-1.png') left 10px center no-repeat;
 }
 a.cell2:hover {
       background-color: #05B5B5;
@@ -71,6 +80,7 @@ a.cell2:hover {
       font-family: Arial;
       text-decoration:none; 
       color: white;
+      background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_02-h.png') left 10px center no-repeat;
 }
 .cell3 {
       padding: 15px 0px 15px 65px;
@@ -402,3 +412,15 @@ a.cell24:hover {
       color: white;
       background: url('https://www.abcconsultants.in/wp-content/uploads/2017/11/icon_24-h.png') left 10px center no-repeat;
 }
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
