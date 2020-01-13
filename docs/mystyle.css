@@ -15,6 +15,9 @@ p1 {
   color: #757170;
   font-family: Arial;
 }
+line {
+      color: gray;
+}
 .cell01 {
       padding: 15px 0px 15px 65px;
       text-decoration:none; 
