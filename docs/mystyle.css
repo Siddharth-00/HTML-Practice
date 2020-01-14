@@ -201,6 +201,9 @@ td.row:hover {
       background-color: #00B9B9;
       font-color: white;
 }
+td.row:hover > a.cell01:hover {
+      color: white;
+}
 a.cell01:hover {
       background-color: #05B5B5;
       padding: 15px 0px 15px 65px;
