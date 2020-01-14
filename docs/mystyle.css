@@ -5,11 +5,12 @@ header {
 }
 h1 {
   margin: 0 auto;
-  padding-top: 37px;
-  padding-left: 20px;
+  padding-top: 41px;
+  padding-left: 22px;
   color: white;
-  font-family: Arial;
+  font-family: Times New Roman;
   font-weight: normal;
+  font-size: 38px;
 }
 p1 {
   color: #757170;
@@ -22,7 +23,7 @@ line {
       padding: 15px 0px 15px 65px;
       text-decoration:none; 
       color: #525252;
-      font-family: Arial;
+      font-family: Scylla Medium;
       background: url('https://www.abcconsultants.in/wp-content/uploads/2017/10/icon_01-1.png') left 10px center no-repeat; 
 }
 .cell02 {
