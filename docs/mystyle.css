@@ -201,7 +201,7 @@ td.row:hover {
       background-color: #00B9B9;
       font-color: white;
 }
-.row:hover > .cell01 {
+.row:hover ~ .cell01 {
       color: white;
 }
 a.cell01:hover {
