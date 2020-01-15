@@ -201,7 +201,7 @@ td.row:hover {
       background-color: #00B9B9;
       font-color: white;
 }
-#test2:hover + #test1 {
+#test2:hover #test1 {
       color: white; 
 }
 a.cell01:hover {
