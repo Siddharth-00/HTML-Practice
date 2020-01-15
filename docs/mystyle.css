@@ -201,8 +201,8 @@ td.row:hover {
       background-color: #00B9B9;
       font-color: white;
 }
-.row:hover ~ .cell01 {
-      color: white;
+#test2:hover > #test1 {
+      color: white; 
 }
 a.cell01:hover {
       background-color: #05B5B5;
